@@ -1,0 +1,39 @@
+* {
+    background-color: #205295;
+    font-family: 'indie flower', cursive ;
+    color: #fff;
+}
+    
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Games',sans-serif;
+    text-shadow: 4px 0,#232931;
+    font-size: 6rem;
+    color: whitesmoke;
+}
+
+h2{
+    font-size: 2rem;
+    color: beige ;
+}
+
+img{
+    width: 80% ;
+}
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+    color: #eee;
+}
